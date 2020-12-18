@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name":"Joel Aldair Chan Tec",
+    "occupation":"Software Developer ",
+    "description":" currently Working as a ",
+    "employer":"Freelancer",
+    "jobDescription":"Backend developer self-taught,committed and with good qualities and without  fear to leave the comfort zone",
+    "image":"Myphoto.jpg",
+    "bio":"I'm a technology lover and I'm Jr developer  I have Intermediate Knowledge in different programming languages of which I think I highlight in JavaScript and C#. I consider myself a  committed, self-taught, teammate and hard-working person.I believe that i'm the type of person who might still not know many things, but eager to share his knowledge and most of all, learn from other people and also I always give 200% effort in everything I do,and finally i have to mention that I am not afraid to ask for help and I also like to help.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "joelchan1220@gmail.com",
+    "phone": "(999) 356-9735",
+    "address":{
+      "street":"Kinchil",
+      "city":"Kinchil",
+      "state":"Yucatan",
+      "zip": "97360"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/11hOsGfcnWUG9ge1dvm_dSnyFWIZqohLV/view?usp=sharing",
+    "social":[
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joel-aldair-chan-tec-048273162/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/joel_chan1220/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"stack-overflow",
+        "url":"https://es.stackoverflow.com/users/131929/joel-aldair-chan-tec",
+        "className":"fa fa-stack-overflow"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/joelchan24",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"Twitter",
+        "url":"https://twitter.com/joelchan24",
+        "className":"fa fa-twitter"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a self-taught and am always interested in playing and learning around with new technologies but these are the ones that have really won me over",
+    "education":[
+      {
+        "school":"Universidad Tecnologica Metropolitana",
+        "degree":"IT engineering",
+        "graduated":"Mérida, Yucatán / 2018-2020",
+        "description":"This is the second part of my degree where I decided continue because i could be only TSU in computer Systems.In those 2 years I learned about Node JS,Mongo DB but specially those 2 years were focused in project manager and theory "
+      },
+      {
+        "school":"Universidad Tecnologica Metropolitana",
+        "degree":"TSU in Computer Systems",
+        "graduated":"Mérida, Yucatán / 2016-2018",
+        "description":"I attended for my first 2 years of univeristy during I started off to learn about programmming.This was a very hands-on exprience focused more in building projects for every 4th mounths where I learned about Databases like SQL, MYSQL and  programming languajes like C#, Java, .net, Javascript, PHP"
+      }
+    ],
+    "work":[
+      {
+        "company":"Mateus Consulting Services from San Diego CA",
+        "title": "Assistant Software Developer/Software Developer",
+        "years": "Home office / March 2019 – Present",
+        "description": "This is my currently Job and for most of my time at matues consulting services, I have worked as Backend Developer, here I have had the chance to Create API using technologies like .net MVC, Mobiles Applications with Xamarin as well as building desktop apps using windows forms. More recently, I have been working in a ERP doing some changes and integrations,as well as working with API of SAGE 50 and Avalara Avatax  "
+      },
+      {
+        "company":"Volunteer Programmer/CANIETY- Soluciones Integrales RODAI",
+        "title":"Volunteer Programmer",
+        "years":"Mérida, Yucatán/ November 2018 – March 2019",
+        "description":"Working as volunteer for RODAI has given me a solid understanding of how work in a team with profesional people, During mi time here I was still studing and I went part-time before my classes start,well in RODAI I have worked with REACT-NATIVE consuming an API and the project it was focused create an Application to help  the doctors keep track of their patiens "
+      },
+      {
+        "company":"Practices / CRECON Soluciones",
+        "title":"Full Stack Developer",
+        "years":"May 2018 - August 2018",
+        "description":"here I was in charge of various duties involved in keeping the systems running,and there I made a system of selling training courses using C# .net MVC"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams,only  me,schools teams and have toyed around with contributing to Open Source Projects.",
+        "image":"git.jpg"
+      }
+      ,
+      {
+        "name":"Csharp",
+        "description":"Csharp was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "image":"csharp.png"
+      },
+      {
+        "name":"Java",
+        "description":"Java was my second programming languaje I used to made desktop application and Currently I use java to solve algorithm on several pages like hackerrank,leedcode.",
+        "image":"java.jpg"
+      },
+      {
+        "name":"React Js",
+        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built some ReactJS project like this page and several to practice and improve my skills in this JS library.",
+        "image":"react.jpg"
+      },
+
+      {
+        "name":"Node JS",
+        "description":"Currently Node JS is my favorite programming languaje in server-side, unfortunately I have not had a chance to make a real project, however i took a course of 40 hours and I have made several projects with this technologie. Most of my experencie are APIs  using tokens, good practices and I also made some web Page. And I want to develop my path in this technologie and also python.",
+        "image":"node.jpg"
+      },
+      {
+        "name":"Bootstrap 4",
+        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "image":"bootstrap.jpg"
+      },
+      {
+        "name":"MongoDB",
+        "description":"I have used  different database systems and am better educated and experienced with Relational Databases. However, I think that is import to know when can I use this DB , and I have to mention that I have not experencie en real project but I have made some APIs using node JS and mongo DB , and I have knowlendge about its structure ,and its use, because I consider myself like a self-taught person.",
+        "image":"mongo.jpg"
+      },
+      {
+        "name":"Heroku",
+        "description":"I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image":"heroku.jpg"
+      },
+      {
+        "name":"SQL Server and MYSQL",
+        "description":"SQL and MYSQL are DB with I am better educated, because I use it in the work and I used to use in the university.",
+        "image":"sql-server.png"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"API users and Products",
+        "category":"I created an API to improve my skill using Node.",
+        "image":"node.jpg",
+        "url":"https://nodecurrest.herokuapp.com"
+      }
+    ]
+  }
+  
+}
